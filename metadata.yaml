@@ -1,11 +1,16 @@
 _repo: The-Law-s-Lumber-Room_55724
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55724-h/images/cover.jpg
 creator:
   author:
     agent_name: Watt, Francis
     gutenberg_agent_id: '48476'
     url: http://www.gutenberg.org/2009/agents/48476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55724#The-Law-s-Lumber-Room
 gutenberg_issued: '2017-10-09'
 gutenberg_type: Text
 identifiers:
